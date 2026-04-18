@@ -1,0 +1,33 @@
+{
+  "common_myths": {
+    "corona vaccine causes infertility": {
+      "verdict": "False",
+      "explanation": "This is false. WHO confirms COVID-19 vaccines are safe and do not affect fertility.",
+      "source": "World Health Organization"
+    },
+    "free government smartphone scheme": {
+      "verdict": "False",
+      "explanation": "No such nationwide scheme exists. Verify only on official government websites (gov.in).",
+      "source": "PIB Fact Check"
+    },
+    "kbc lottery winner 25 lakhs": {
+      "verdict": "Scam",
+      "explanation": "This is a well-known scam. KBC never asks for money or personal details via WhatsApp.",
+      "source": "Cyber Crime Cell"
+    },
+    "work from home job earn 50000 per month": {
+      "verdict": "Suspicious",
+      "explanation": "Legitimate companies do not offer high salaries without interview/background check. Be careful.",
+      "source": "Local Database"
+    }
+  },
+  "fake_news_patterns": [
+    "earn money from home without investment",
+    "government giving free smartphones",
+    "lottery winner in your area",
+    "kbc lucky winner number",
+    "part time job no experience",
+    "आधार कार्ड से पैसे",
+    "free recharges"
+  ]
+}
